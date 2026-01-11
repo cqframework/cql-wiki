@@ -98,3 +98,4 @@ This documentation is provided under [appropriate license - to be determined].
 ## Acknowledgments
 Thanks to the Digital Quality Implementers Community. 
 Built on the foundation of the excellent [CQL Formatting and Usage Wiki](https://github.com/cqframework/CQL-Formatting-and-Usage-Wiki/wiki) maintained by the CQL community.
+![image](https://github.com/cqframework/cql-wiki/upload/marciantemark-patch-1/images)
